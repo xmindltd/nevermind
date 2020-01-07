@@ -31,10 +31,10 @@ OpenType variable fonts are an extension to the OpenType specification, included
 ![](sources/Characters_2.png)
 
 ## Style Examples
-
-![](sources/condensed.png)  
+  
 ![](sources/Medium.png)
 ![](sources/Semicondensed.png)
+![](sources/condensed.png)
 ![](sources/Extracondensed.png)
 ![](sources/Ultracondensed.png)
 
