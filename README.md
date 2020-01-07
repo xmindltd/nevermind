@@ -4,24 +4,24 @@ NeverMind, is a font family based on the logotype used by XMind. The Variable fo
 
 ## Fonts Details
 
-* **Supported languages**
+* Supported languages
 
 Albanian, Basque, Catalan, Danish, Dutch, English, Estonian, Feroese, Finnish Scots, French, Gaelic, Galician, German, Greek Transliterated, Hungarian, Icelandic, Indonesian, Irish, Italian, Nynorsk Bokmal Norwegian, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.
 
 Note: Catalan is not strictly supported by Latin Std fonts because of the Ldot. Dutch is not strictly supported by Latin Std fonts because of the IJ glyph.
 
-* **Version**
+* Version
 
 This is the first version of NeverMind Font Family - NeverMind Pro.
 
-* **Number of fonts**  
+* Number of fonts
 
 Since NeverMind is OpenType STD fonts, you can actually generate millions of fonts by combine these three factors inside their range:  
 Slant: 0 -13 (represent italic)   
 Width:  60 -100   
 Weight: 100 - 700  
 
-* **Variable fonts**  
+* Variable fonts
 
 OpenType variable fonts are an extension to the OpenType specification, included in OpenType 1.8 on 14 September 2016, Adobe, Apple Google, and Microsoft announced the technology, which allows a single font file to store a continous range of design variants.
 
