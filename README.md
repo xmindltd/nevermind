@@ -46,3 +46,7 @@ The fonts were designed by XMind Designer Team leaded by designer Lan.
 
 You can simply download fonts (.ttf files) and install to use. Some details and design info are included in pdf source file.
 
+## LICENSE 
+
+[SIL Open Font License.](License)
+
