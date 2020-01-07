@@ -27,7 +27,16 @@ OpenType variable fonts are an extension to the OpenType specification, included
 
 ## Characters Examples
 
+![](sources/Characters_1.png)
+![](sources/Characters_2.png)
+
 ## Style Examples
+
+![](sources/condensed.png)  
+![](sources/Medium.png)
+![](sources/Semicondensed.png)
+![](sources/Extracondensed.png)
+![](sources/Ultracondensed.png)
 
 ## Font Designer
 
