@@ -48,5 +48,5 @@ You can simply download fonts (.ttf files) and install to use. Some details and 
 
 ## LICENSE 
 
-[SIL Open Font License.](License)
+[SIL Open Font License.](LICENSE)
 
