@@ -23,9 +23,9 @@ NeverMind, is a font family based on the logotype used by XMind. The Variable fo
 
 * Variable fonts
 
-    OpenType variable fonts are an extension to the OpenType specification, included in OpenType 1.8 on 14 September 2016, Adobe, Apple Google, and Microsoft announced the technology, which allows a single font file to store a continous range of design variants.
+    OpenType variable fonts are an extension to the OpenType specification, included in OpenType 1.8. On 14 September 2016, Adobe, Apple Google, and Microsoft announced the technology, which allows a single font file to store a continuous range of design variants.
 
-## Characters Examples
+## Characters Examples 
 
 ![](sources/Characters_1.png)
 
