@@ -16,7 +16,7 @@
 
 * Number of fonts
 
-    Since NeverMind is [OpenType STD fonts](https://typofonderie.com/font-support/language-support/), you can actually generate millions of fonts by combine these three factors inside their range:  
+    Since NeverMind conforms to [OpenType STD](https://typofonderie.com/font-support/language-support/), you can actually generate millions of fonts by combine these three factors inside their range:  
     Slant: 0 -13 (represent italic)   
     Width:  60 -100   
     Weight: 100 - 700  
