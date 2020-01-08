@@ -21,7 +21,7 @@
     Width:  60 -100   
     Weight: 100 - 700  
 
-* Variable fonts
+* [Variable fonts](https://en.wikipedia.org/wiki/Variable_fonts)
 
     OpenType variable fonts are an extension to the OpenType specification, included in OpenType 1.8. On 14 September 2016, Adobe, Apple Google, and Microsoft announced the technology, which allows a single font file to store a continuous range of design variants.
 
