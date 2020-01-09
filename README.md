@@ -6,9 +6,16 @@
 
 * Supported languages
 
-    Albanian, Basque, Catalan, Danish, Dutch, English, Estonian, Feroese, Finnish Scots, French, Gaelic, Galician, German, Greek Transliterated, Hungarian,     Icelandic, Indonesian, Irish, Italian, Nynorsk Bokmal Norwegian, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.
-
+    Most Latin languages, including, but not limited to, Afrikaans, Basque, Breton, Catalan, Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, Italian, Norwegian, Portuguese, Saami (Southern), Spanish, Swahili, Swedish.
+    
     Note: Catalan is not strictly supported by Latin Std fonts because of the Ldot. Dutch is not strictly supported by Latin Std fonts because of the IJ glyph.
+
+* How many fonts
+    
+    The font family currently contains 5 different styles, each style consists of 14 fonts based on different italic, width and weight.   
+    5 styles: Condensed, ExtraCondensed, Medium, SemiCondensed, UltraConsensed.  
+    14 cases in each style: Bold, Bolditalic, DemiBold, DemiBolditalic, ExtraLight, ExtraLightitalic, Light, Lightitalic, Medium, Mediumitalic, Regular, Regularitalic, Thin, Thinitalic.
+
 
 * Version
 
