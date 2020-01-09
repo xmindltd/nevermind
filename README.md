@@ -10,16 +10,13 @@
     
     Note: Catalan is not strictly supported by Latin Std fonts because of the Ldot. Dutch is not strictly supported by Latin Std fonts because of the IJ glyph.
 
-* How many fonts
-    
-    The font family currently contains 5 different styles, each style consists of 14 fonts based on different italic, width and weight.   
-    5 styles: Condensed, ExtraCondensed, Medium, SemiCondensed, UltraConsensed.  
-    14 cases in each style: Bold, Bolditalic, DemiBold, DemiBolditalic, ExtraLight, ExtraLightitalic, Light, Lightitalic, Medium, Mediumitalic, Regular, Regularitalic, Thin, Thinitalic.
-
-
 * Version
 
     This is the first version of NeverMind Font Family - NeverMind Pro.
+    
+* Font designer  
+    
+    The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) leaded by designer Lan.
 
 ## Characters Examples 
 
@@ -33,10 +30,7 @@
 ![](sources/Extracondensed.png)
 ![](sources/Ultracondensed.png)
 
-## Font Designer
-
-The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) leaded by designer Lan.  
-
+  
 ## Usage
 
 You can simply download fonts (.ttf files) and install to use. Some details and design info are included in pdf source file.
