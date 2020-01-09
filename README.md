@@ -6,7 +6,7 @@
 
 * Supported languages
 
-    Most Latin languages, including, but not limited to, Afrikaans, Basque, Breton, Catalan, Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, Italian, Norwegian, Portuguese, Saami (Southern), Spanish, Swahili, Swedish.
+    Most Latin languages, including, but not limited to, Afrikaans, Basque, Breton, Catalan, Danish, Dutch, English, Finnish, French, Gaelic, German, Icelandic, Indonesian, Irish, Italian, Norwegian, Portuguese, Saami, Spanish, Swahili, Swedish.
     
     Note: Catalan is not strictly supported by Latin Std fonts because of the Ldot. Dutch is not strictly supported by Latin Std fonts because of the IJ glyph.
 
