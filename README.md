@@ -33,7 +33,7 @@
   
 ## Usage
 
-You can simply download fonts (.ttf files) and install to use. Some details and design info are included in pdf source file.
+You can simply download fonts (.ttf files) and install to use. Some details and design info are included in [pdf source file](sources/Nevermind_brochure.pdf).
 
 ## LICENSE 
 
