@@ -20,7 +20,7 @@
 
 ## Characters 
 
-![](sources/Characters_1.png)
+![](sources/Characters.png)
 
 ## Styles
 
