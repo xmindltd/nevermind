@@ -25,15 +25,10 @@
 ## Style Examples
   
 ![](sources/Medium.png)
-![](sources/Semicondensed.png)
-![](sources/condensed.png)
-![](sources/Extracondensed.png)
-![](sources/Ultracondensed.png)
-
   
 ## Usage
 
-You can simply download fonts (.ttf files) and install to use. Some details and design info are included in [pdf source file](sources/Nevermind_brochure.pdf).
+You can simply download fonts (.ttf files) and install to use.
 
 ## LICENSE 
 
