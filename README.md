@@ -18,11 +18,17 @@
     
     The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) leaded by designer Lan.
 
-## Characters Examples 
+## Characters 
 
 ![](sources/Characters_1.png)
 
-## Style Examples
+## Styles
+
+* **Condensed** 
+
+![](sources/Condensed.png)
+
+* **Medium**
   
 ![](sources/Medium.png)
   
