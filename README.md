@@ -2,7 +2,7 @@
 
 [NeverMind](https://www.behance.net/gallery/89046307/NeverMind), is a font family based on the logotype used and designed by [XMind](https://www.xmind.net/). It is geometric and humanist sans serif font, modern and friendly, and can be used for all types of communication.
 
-## Fonts Details
+## Font Details
 
 * **Supported languages**
 
