@@ -12,7 +12,7 @@
 
 * **How many fonts**
 
-    The font family consists of 28 different font weights with stroker thickness from Thin 100 to Bold 700 and width from Condensed 60 to Medium 100.  
+    The font family consists of 28 different font weights with stroker thickness from Thin 100 to Bold 700 and two different widths (Condensed 90 and Medium 100).  
 
 * **Font designer**  
     
