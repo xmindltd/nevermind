@@ -16,7 +16,7 @@
 
 * **Font designer**  
     
-    The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) leaded by designer Lan.
+    The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) led by designer Lan.
 
 ## Characters 
 
