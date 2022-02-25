@@ -45,7 +45,7 @@ This font family currently includes one basic typeface and five other different 
 
 ![](sources/NeverMind_hand.png)
 
-* **NeverMind serif**
+* **NeverMind Serif**
 
 ![](sources/NeverMind_serif.png)
 
