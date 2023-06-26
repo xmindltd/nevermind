@@ -1,3 +1,4 @@
+![](sources/Cover.png)
 # The NeverMind Font Family
 
 [NeverMind](https://www.behance.net/gallery/89046307/NeverMind), is a font family based on the logotype used and designed by [Xmind](https://www.xmind.net/). It is geometric and humanist font, modern and friendly, and can be used for all types of communication.    
