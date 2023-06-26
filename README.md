@@ -1,6 +1,6 @@
 # The NeverMind Font Family
 
-[NeverMind](https://www.behance.net/gallery/89046307/NeverMind), is a font family based on the logotype used and designed by [XMind](https://www.xmind.net/). It is geometric and humanist font, modern and friendly, and can be used for all types of communication.    
+[NeverMind](https://www.behance.net/gallery/89046307/NeverMind), is a font family based on the logotype used and designed by [Xmind](https://www.xmind.net/). It is geometric and humanist font, modern and friendly, and can be used for all types of communication.    
     
 This font family currently includes one basic typeface and five other different fonts in various styles, including round, handwritten, serif, and sans serif. More fonts may be added in the future.
 
@@ -25,7 +25,7 @@ This font family currently includes one basic typeface and five other different 
 
 * **Font designer**  
     
-    The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155) led by designer Lan.
+    The fonts were designed by [Xmind Designer Team](https://www.zcool.com.cn/u/18786155) .
 
 ## Styles
 
@@ -56,7 +56,7 @@ This font family currently includes one basic typeface and five other different 
   
 ## Usage
 
-You can simply download fonts (.ttf files) and install to use.
+You can simply download fonts resource files and install to use.
 
 ## LICENSE 
 
