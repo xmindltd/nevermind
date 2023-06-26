@@ -1,5 +1,5 @@
 
-![](sources/Cover.png)
+![](sources/cover.png)
 
 # The NeverMind Font Family
 
