@@ -25,7 +25,7 @@ This font family currently includes one basic typeface and five other different 
 
 * **Font designer**  
     
-    The fonts were designed by [XMind Designer Team](https://www.zcool.com.cn/u/18786155).
+    The fonts were designed by [Xmind Designer Team](https://www.zcool.com.cn/u/18786155).
 
 ## Styles
 
