@@ -53,30 +53,7 @@ This font family currently includes one basic typeface and more than ten differe
 
 ## Styles
 
-* **NeverMind** 
-
-![](sources/NeverMind.png)
-
-* **NeverMind Rounded**
-
-![](sources/NeverMind_rounded.png)
-
-* **NeverMind Rounded Mono**
-
-![](sources/NeverMind_rounded_mono.png)
-
-* **NeverMind Hand**
-
-![](sources/NeverMind_hand.png)
-
-* **NeverMind Serif**
-
-![](sources/NeverMind_serif.png)
-
-* **NeverMind semi-serif**
-
-![](sources/NeverMind_semi_serif.png)
-
+![](sources/font-family.png)
   
 ## Usage
 
